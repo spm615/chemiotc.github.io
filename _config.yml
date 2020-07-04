@@ -98,15 +98,15 @@ tag_archive:
   path: /tags/
 
 defaults:
-  # # all
-  # - scope:
-      # path: ""
-    # values:
-      # layout: single
-      # author_profile: false
-      # class: wide
-      # title: " "
-      # title_separator: "|"
+  # all
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      class: wide
+      title: " "
+      title_separator: "|"
   # _posts
   - scope:
       type: posts
