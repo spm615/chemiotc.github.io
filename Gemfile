@@ -1,5 +1,13 @@
 source "https://rubygems.org"
 
+# Theme
+gem "jekyll-remote-theme"
+gem "minimal-mistakes-jekyll"
+#gem "jekyll-include-cache"
+#gem "jekyll-paginate"
+#gem "nokogiri", "~> 1.10.4"
+
+
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"

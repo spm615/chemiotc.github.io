@@ -13,20 +13,29 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: " "
+subtitle : 
+logo : "/assets/images/Logo Chemiotic.png"
+email: gianmarco.polotti@gmail.com
+repository: "chemiotic/chemiotic.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+github_username: chemiotic
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "chemiotic-org"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: dark #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -56,11 +65,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   :
+  avatar :
+  bio    :
+  location:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -88,24 +99,42 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # all
   - scope:
       path: ""
+    values:
+      layout: single
+      author_profile: false
+      class: wide
+      title: " "
+      title_separator: "|"
+  # _posts
+  - scope:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      class: wide
       read_time: true
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      excerpt: ""
+        
 
 category_archive:
   type: liquid

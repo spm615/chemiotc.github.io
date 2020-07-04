@@ -1,9 +1,51 @@
 main:
+  - title: "Home"
+    url: /home/
+  - title: "Vision"
+    url: /vision/
+  - title: "Chemistry"
+    url: /chemistry/
+  - title: "Robotic"
+    url: /robotic/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "People"
+    url: /people/
+    
+# sidebar for docs
+docs:
+  - title: Reference
+    children:
+      - title: "Open Papers"
+        url: /docs/openpapers/
+      - title: "Articles"
+        url: /docs/articles/
+
+  - title: Suppliers
+    children:
+      - title: "Electronics"
+        url: /docs/supplierselectronis/
+      - title: "Chemicals"
+        url: /docs/supplierschemicals/
+      - title: "Hardware"
+        url: /docs/suppliershardware/
+      - title: "Tools"
+        url: /docs/supplierstools/
+      - title: "Software"
+        url: /docs/supplierssoftware/
+
+  - title: Videos
+    children:
+      - title: "Howtos"
+        url: /docs/videohowtos/
+      - title: "Electronics"
+        url: /docs/videoelectronics/
+      - title: "Chemical"
+        url: /docs/videochemicals/
+      - title: "Control"
+        url: /docs/videocontrol/
+
