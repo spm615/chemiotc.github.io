@@ -24,14 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: chemiotic
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "chemiotic-org"
 
 # Build settings
 markdown: kramdown
-theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: dark #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
@@ -108,6 +104,7 @@ defaults:
       class: wide
       title: " "
       title_separator: "|"
+      comments: true
   # _posts
   - scope:
       type: posts
@@ -134,7 +131,12 @@ defaults:
       type: docs
     values:
       excerpt: ""
-        
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-good-advice-github-io."
+
 
 category_archive:
   type: liquid
