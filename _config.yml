@@ -1,36 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: dark #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: " "
 subtitle : 
 logo : "/assets/images/Logo Chemiotic.png"
 email: gianmarco.polotti@gmail.com
-repository: "chemiotic/chemiotic.github.io"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+repository: "chemiotic/chemiotic.github.io"
+words_per_minutes: 200
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    staticman_url: https://chemiotic-blog.herokuapp.com/v2/entry/chemiotic/chemiotic.github.io/master/comments
+reCaptcha:
+   siteKey: 6LfUZq0ZAAAAAO-mdQbEVIk-bUfVpIagT_6CQUbE
+   secret: p/fYhnT5x2DfTtjsN7rU3WKu2R5JMbp2/bRxaZsLOEpX4dLOTokT5WymIRj9xVMGZqKRdGThw6O9vQ7sqN8mfEtWceD7T/i/TkMvz+edOmu47DhEVxPyloVAQM8au9Ac9p2nlM6xPTkShBBs4LShk3J7qg3fg65LRzB7ApXF5QvhWf061yR5We8teLLgVe9CXlYE/QalTMtz/gjL6xvnU21FRK/N/1WwoWGzf7dkZXYxaXGQ9D+MjzRxSGPjyeYZ5hyJFxr7aZhEZY78ovMGCRNFIZUQtAP3u8W927d1Qd/JsjAD/rwUsSuQfZJPfb0PbtnN0PzRc65MjVD9ZofkAEZtQxr3BgLGWtdJ8iQl/p48SOvHOibiNCBA6Wjd8+Siu2u5k4pxDReYb7MGx7f9wdeEhulPlbzIIByOKIhdk3pqQmHtlOZMnoAWz4NcUF2DqxXl85Cp+F1pc6kMnag5vKW32/2cQwZtcGiE98cCznjeHjoJB1+J5nm/aadH9qq8+aerrNjYW0nyHiz/ZUw2Brw/AiTK1WFafBzhtNGBf6zjNG9HSCRgpzI+dX5KyTYJw5A8j2X/8cwzLy16Et+5CKRmD+rZR+Pv6Y7CqKXby7LSgxRwZF3azZTCExys5+BE6vSrwoQgdbiyyATxQS+xLfF/OI/aLvUXNR1Ug81sQQU=
+
+# Social Sharing
 twitter_username: username
 github_username: chemiotic
+search: true
 
 # Build settings
 markdown: kramdown
-#theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: dark #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-search: true
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -39,6 +37,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
+  - .htaccess
   - _pages
 
 # Exclude from processing.
@@ -61,7 +60,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 author:
   name   :
@@ -69,9 +67,6 @@ author:
   bio    :
   location:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -94,26 +89,33 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 defaults:
-  # all
-  - scope:
-      path: ""
-    values:
-      layout: single
-      author_profile: false
-      class: wide
-      title: " "
-      title_separator: "|"
-      comments: true
+  # # all
+  # - scope:
+      # path: ""
+    # values:
+      # layout: single
+      # author_profile: false
+      # class: wide
+      # title: " "
+      # title_separator: "|"
   # _posts
   - scope:
       type: posts
     values:
+      comments: true
       layout: single
       author_profile: false
       class: wide
       read_time: true
-      comments: true
       share: true
       related: true
       sidebar:
@@ -132,15 +134,5 @@ defaults:
     values:
       excerpt: ""
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "https-good-advice-github-io."
 
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
