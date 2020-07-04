@@ -20,6 +20,6 @@ Chemistry is a quite large science with many different topics. It moves from bio
 1. [Modular plants](https://en.wikipedia.org/wiki/Modular_process_skid)
 
 
-Through these tools is possible to re-think the most part of the chemistry production. The tendency is quite general, allthogh partially covered by industrial protection and partially released.
+Through these tools is possible to re-think the most part of the chemistry production. The tendency is quite general, allthough partially covered by industrial protection and partially released.
 
-A good example is the Flexible, Fast and Future Production Processes [(F3)](https://cordis.europa.eu/project/id/228867/reporting) sponsored by the European Comunity in 2013.
+A good example is the Flexible, Fast and Future Production Processes [(F3)](https://cordis.europa.eu/project/id/228867/reporting) sponsored by the European Community in 2013.

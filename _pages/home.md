@@ -1,6 +1,6 @@
 ---
-permalink: /home/
 title: ""
+permalink: /home/
 classes: wide
 ---
 
