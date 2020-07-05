@@ -1,6 +1,6 @@
 ---
 permalink: /vision/
-title: "Vision"
+title: " "
 classes: wide
 sidebar:
   - title: " "
