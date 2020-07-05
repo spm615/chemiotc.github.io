@@ -35,6 +35,4 @@ The solution is quite obvious and already highlighted: delocalized chemical prod
 
 **But how small these new plants will be?**
 
-The most likely answer will be dependand of the different chemicals. Probably, many productions may move to no-chemical company that have a relevant use of the chemical. For some usefull substances we can preconize a domestic production with a direct recycling of some family waste.
-
-**So, more chemistry but managed in an easy and responsible way.**
+The most likely answer will be dependand of the different chemicals. Probably, many productions may move to no-chemical company that have a relevant use of the chemical. For some usefull substances we can preconize a domestic production with a direct recycling of some family waste. **So, more chemistry but managed in an easy and responsible way.**
