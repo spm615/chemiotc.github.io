@@ -1,9 +1,9 @@
 ---
 permalink: /vision/
-title: " "
+title: "Vision"
 classes: wide
 sidebar:
-  - title: "Vision"
+  - title: " "
     image: https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
     image_alt: "image"
     text: "Photo credit: [**Maksym Kaharlytskyi**](https://unsplash.com)"
