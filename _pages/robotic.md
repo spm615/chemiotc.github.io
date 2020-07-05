@@ -4,9 +4,18 @@ title: "Robotic"
 classes: wide
 sidebar:
   - title: " "
-    image: /assets/images/franck-v-Uz0uQXvOtEY-unsplash.jpg
+    image: https://images.unsplash.com/photo-1537151377170-9c19a791bbea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
     image_alt: "image"
-    text: "Photo credit: [**Franck V.**](https://unsplash.com)"
+    text: "Photo credit: [**Franck Wang**](https://unsplash.com)"
+  - title: " "
+    image: https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+    image_alt: "image"
+    text: "Photo credit: [**Nicolas Thomas**](https://unsplash.com)"
+  - title: " "
+    image: https://images.unsplash.com/photo-1555664424-778a1e5e1b48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+    image_alt: "image"
+    text: "Photo credit: [**Robin Glauser**](https://unsplash.com)"
+
 date: 2020-03-07
 ---
 

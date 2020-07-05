@@ -4,9 +4,17 @@ permalink: /chemistry/
 classes: wide
 sidebar:
   - title: " "
-    image: /assets/images/louis-reed-JeInkKlI2Po-unsplash.jpg
+    image: https://images.unsplash.com/photo-1532187643603-ba119ca4109e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
     image_alt: "image"
     text: "Photo credit: [**Louis Reed**](https://unsplash.com)"
+  - title: " "
+    image: https://images.unsplash.com/photo-1562411052-105105232432?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+    image_alt: "image"
+    text: "Photo credit: [**Grey Wallpapers**](https://unsplash.com)"
+  - title: " "
+    image: /assets/images/IMG_20200218_115113.jpg
+    image_alt: "image"
+    text: "Photo credit: [**Jury Sabatin**](https://unsplash.com)"
 date: 2020-03-07
 ---
 

@@ -1,10 +1,17 @@
 ---
-title: ""
+title: "Home"
 permalink: /home/
 classes: wide
+sidebar:
+  - title: " "
+    image: /assets/images/chemiotic_definition_1.jpg
+    image_alt: "image"
+  - title: " "
+    image: /assets/images/chemiotic_definition_2.jpg
+    image_alt: "image"
+    text: "Photo credit: **M. Sponchioni**"
+date: 2020-03-07
 ---
-
-![plant](/assets/images/chemiotic_definition.jpg)
 
 **Chemiotic** comes from the merge of the two words: chemistry and robotic. The new word stresses the wish of the team to produce chemicals with automatic plants for small scale and even domestic production.
 
@@ -18,4 +25,4 @@ There is not limit to the Chemistry we are interested in: polymers, fine chemica
 
 - Show examples of fruitfull chemical automatic production on small scale.
 
-- Highlight application of Robotics in Chemistry and Chemistry requiring Robotics.
+- Highlight applications of Robotic in Chemistry and Chemistry requiring Robotics.

@@ -2,12 +2,21 @@
 permalink: /vision/
 title: "Vision"
 classes: wide
+sidebar:
+  - title: " "
+    image: https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+    image_alt: "image"
+    text: "Photo credit: [**Maksym Kaharlytskyi**](https://unsplash.com)"
+  - title: " "
+    image: https://images.unsplash.com/photo-1587638289018-e8f17dfaa23f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+    image_alt: "image"
+    text: "Photo credit: [**Dimitry Anikin**](https://unsplash.com)"
+  - title: " "
+    image: /assets/images/skid.png
+    image_alt: "image"
+    text: "Photo credit: [**Jury Sabatin**](https://unsplash.com)"
+date: 2020-03-07
 ---
-
-
-##### Photo credit: right, [Dimitry Anikin](https://unsplash.com) left, [Bayer Technology Services](https://cordis.europa.eu/docs/results/228867/final1-f3-factory-keymessages-and-casestudy-summaries.pdf) #####
-![plant](/assets/images/Vision_Image.jpg)
-
 
 **Chemistry is a fundamental human activity.** We cannont avoid to produce chemical substances. However, we can review the way we make them. Up to now, production tend to be concentrated in large plants. Some drawbacks of this method are coming out:
 
