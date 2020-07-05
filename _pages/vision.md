@@ -14,7 +14,6 @@ sidebar:
   - title: " "
     image: /assets/images/skid.png
     image_alt: "image"
-    text: "Photo credit: [**Jury Sabatin**](https://unsplash.com)"
 date: 2020-03-07
 ---
 
