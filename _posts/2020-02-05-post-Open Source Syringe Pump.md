@@ -15,5 +15,7 @@ tags:
 
 The articles show the hardware requirement, the software code and the detailed procedure for construction.
 
+Read also **Osmar, the open-source microsyringe autosampler** in Open Papers menu on the left.
+
 
 

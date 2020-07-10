@@ -18,9 +18,9 @@ classes: wide
 
 1. Daniel R. Albert, Michael A. Todt, and H. Floyd Davis, A Low-Cost Quantitative Absorption Spectrophotometer, [doi.org/10.1021/ed200829d](https://pubs.acs.org/doi/10.1021/ed200829d)
 
-1. San Cristobal Elio, J. P. HerranzGerman CarroAlfonso ContrerasEugenio Muñoz CamachoFelix Garcia-LoroManuel Castro Gil, From a Hands-on Chemistry Lab to a Remote Chemistry Lab: Challenges and Constrains, [doi.org/10.1007/978-3-319-64352-6_12](https://link.springer.com/chapter/10.1007/978-3-319-64352-6_12)
+1. San Cristobal Elio, J. P. HerranzGerman Carro, Alfonso Contreras, Eugenio Muñoz Camacho, Felix Garcia-LoroManuel Castro Gil, From a Hands-on Chemistry Lab to a Remote Chemistry Lab: Challenges and Constrains, [doi.org/10.1007/978-3-319-64352-6_12](https://link.springer.com/chapter/10.1007/978-3-319-64352-6_12)
 
 1. S. Shanmuga Priya, Arunabh Borkataky, Sneha Reddy, I. Thirunavukkarasu, Measurement of global solar radiation data using raspberry Pi and its estimation using genetic algorithm, [10.1051/matecconf/201815307004](https://manipal.pure.elsevier.com/en/publications/measurement-of-global-solar-radiation-data-using-raspberry-pi-and)
 
-
+1. San Cristobal Elio, J. P. Herranz, German Carro, Alfonso Contreras, Eugenio Muñoz Camacho, Felix Garcia-LoroManuel Castro Gil, From a Hands-on Chemistry Lab to a Remote Chemistry Lab: Challenges and Constrains[doi.org/10.1007/978-3-319-64352-6_12](https://link.springer.com/chapter/10.1007/978-3-319-64352-6_12)
 

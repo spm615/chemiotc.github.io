@@ -4,5 +4,9 @@ title: "Electronic Videos"
 classes: wide
 ---
 
-1. [Process Intensification](https://www.epicmodularprocess.com/blog/what-is-process-intensification)
+1. [LED Photometer mit Arduino](https://www.youtube.com/watch?v=SoVuUctSyBE)
+
+1. [DIY Flow Chemistry with Arduino](https://www.youtube.com/watch?v=R4Ohwhk47tg)
+
+1. [DIY LED-Photometer with Arduino / LED Photometer mit Arduino](https://www.youtube.com/watch?v=SoVuUctSyBE)
 

@@ -13,5 +13,7 @@ classes: wide
 
 1. [pH Meter Sensor Kit Arduino Raspberry Pi Compatible Atlas Scientific](https://circuit.rocks/ph-meter-sensor-kit-arduino-raspberry-pi-compatible-atlas-scientific.html)
 
+1. [Sensors Rocks](https://circuit.rocks/chemical-sensors)
+
 
 
