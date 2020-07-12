@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Industry
 tags:
-  - Controll
+  - Control
 ---
 
 Model-based control: [Raspberry Pi vs programmable logic controllers](https://www.controlglobal.com/articles/2020/raspberry-pi-vs-plc-for-model-based-control/) 
