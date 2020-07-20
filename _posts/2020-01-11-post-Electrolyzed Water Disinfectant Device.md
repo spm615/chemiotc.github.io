@@ -5,7 +5,7 @@ categories:
   - Industry
 tags:
   - Analysis
-  - Enviromental
+  - Environment
 ---
 
 A low-cost method to produce electrolyzed salt water, an [all-purpose sanitizer.] (https://www.hackster.io/350089/electrolyzed-water-disinfectant-device-27d130)

@@ -6,6 +6,7 @@ categories:
 tags:
   - Analysis
   - Education
+  - Flow Chemistry
 ---
 
 [Croatt Group DIY Flow Chemistry Setup – UNC-Greensboro] (https://chem.uncg.edu/croatt/flow-chemistry/)

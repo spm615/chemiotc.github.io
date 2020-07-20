@@ -5,7 +5,7 @@ categories:
   - Industry
 tags:
   - Biotechnology
-  - Polymer Analysis
+  - Polymer
 ---
 
 IBM build a [sophisticated microscope](https://spectrum.ieee.org/geek-life/hands-on/build-a-sophisticated-microscope-using-lego-3d-printing-arduinos-and-a-raspberry-pi) using Lego, 3D Rpinting, Arduinos and Rasberry Pi.

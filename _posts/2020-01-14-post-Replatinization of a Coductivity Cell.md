@@ -5,7 +5,7 @@ categories:
   - University
 tags:
   - Sensors
-  - electrochemistry
+  - Electrochemistry
 ---
 
 A device for [Replatinization of a Coductivity cel](http://www.cma4ch.org/chemo/lessons/eserc12_2015-16.html) made by Arduino.

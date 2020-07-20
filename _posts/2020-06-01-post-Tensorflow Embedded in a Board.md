@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Industry
 tags:
-  - Sensor
+  - Sensors
   - Electronic
 ---
 

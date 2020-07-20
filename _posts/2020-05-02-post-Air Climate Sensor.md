@@ -6,7 +6,7 @@ categories:
 tags:
   - Analysis
   - Sensors
-  - Enviromental
+  - Environment
 ---
 
 DIY Raspberry Pi: [AirPi climate sensor](https://www.dailymercury.com.au/news/diy-raspberry-pi-airpi-climate-sensor/2004091/).

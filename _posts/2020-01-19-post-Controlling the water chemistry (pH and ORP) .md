@@ -5,8 +5,8 @@ categories:
   - Industry
 tags:
   - Analysis
-  - sensors
-  - Enviromental
+  - Sensors
+  - Environment
   - Control
 ---
 
