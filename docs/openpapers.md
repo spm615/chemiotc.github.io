@@ -57,4 +57,4 @@ Reactions and Electroanalytical Techniques](https://www.juami.org/wp-content/upl
 
 1. [ChemDuino](https://lide.uhk.cz/prf/ucitel/slegrja1/chemduino/arduino.htm)
 
-1. [
+1. [Open-source computers](https://www.controlglobal.com/articles/2017/open-source-computers-arrive-for-monitoring-and-control/)

@@ -23,10 +23,10 @@ Like Chemistry also Robotic is a very large discipline, in spite of its more sho
 
  1. development of new [Sensors](https://en.wikipedia.org/wiki/Sensor) with [their Electronic]( https://www.adafruit.com/category/35)
  
- 1. low cost boards like [Rasberry](https://en.wikipedia.org/wiki/Sensor) or [Arduino](https://en.wikipedia.org/wiki/Arduino)
+ 1. low cost boards like [Rasberry](https://en.wikipedia.org/wiki/Sensor), [Arduino](https://en.wikipedia.org/wiki/Arduino) and many [others](https://makezine.com/comparison/boards/)
  
  1. diffuse example of [Automation](https://en.wikipedia.org/wiki/Automation)
  
  
- The posibility to think and realize new form of robots and automatic devices, become very popular with the [Make](https://makezine.com/) magazine. There an increasing section regards possible interaction with chemistry and chemical production. A diffuse consideration of combine chemistry with electronic, mechanics and informatic is a very fruithfull progress for the future.
+ The posibility to think and realize new form of robots and automatic devices, become very popular with the [Make](https://makezine.com/) magazine. There an increasing section regards possible interaction with chemistry and chemical production. A diffuse consideration of combine chemistry with electronic, mechanics and informatic is a very promising development for the future.
  

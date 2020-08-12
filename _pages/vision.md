@@ -31,7 +31,7 @@ date: 2020-03-07
 - pollutant productions geografically migrate instead of improving their ecocompatibility
 
 
-The solution is quite obvious and already highlighted: delocalized chemical productions in a network of small plant. The chemical production will be sperad out in many more small units because thier results more flexible and versatile.
+The solution is quite obvious and already highlighted: delocalized chemical productions in a network of small plants. The chemical production will be sperad out in many more small units because thier results more flexible and versatile.
 
 **But how small these new plants will be?**
 

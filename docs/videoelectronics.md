@@ -10,3 +10,4 @@ classes: wide
 
 1. [DIY LED-Photometer with Arduino / LED Photometer mit Arduino](https://www.youtube.com/watch?v=SoVuUctSyBE)
 
+1. [Rasberry Pi Sensors](https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/)

@@ -4,7 +4,7 @@ title: " "
 classes: wide
 sidebar:
   - title: ""
-    image: /assets/images/GP.png
+    image: /assets/images/GP.jpg
     image_alt: "image"
     text: "[**Gianmarco Polotti**](https://www.linkedin.com/in/gianmarco-polotti-ab0136/)"
 

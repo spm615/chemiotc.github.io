@@ -10,6 +10,9 @@ sidebar:
     image: /assets/images/chemiotic_definition_2.jpg
     image_alt: "image"
     text: "Photo credit: **M. Sponchioni**"
+  - title: "Similar Initiative"
+    text: "[DIYBiosphere](https://sphere.diybio.org/)  
+[Chobotix](https://www.chobotix.cz/)"
 date: 2020-03-07
 ---
 
