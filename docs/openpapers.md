@@ -58,3 +58,11 @@ Reactions and Electroanalytical Techniques](https://www.juami.org/wp-content/upl
 1. [ChemDuino](https://lide.uhk.cz/prf/ucitel/slegrja1/chemduino/arduino.htm)
 
 1. [Open-source computers](https://www.controlglobal.com/articles/2017/open-source-computers-arrive-for-monitoring-and-control/)
+
+1. [Electronic multiplex system using the Arduino platform to control and record the data of the temperatures profiles in heat storage tank for solar collector](https://link.springer.com/article/10.1007/s40095-016-0217-1)
+
+1. [Filtered PI and PID control of an Arduino based thermal plant](https://www.sciencedirect.com/science/article/pii/S2405896316326970)
+
+1. [Filtered PI and PID control of an Arduino based thermal plant](https://www.sciencedirect.com/science/article/pii/S2405896316326970)
+
+1. [A low‐cost, free‐software platform with hard real‐time performance for control engineering education](https://onlinelibrary.wiley.com/doi/10.1002/cae.22084)

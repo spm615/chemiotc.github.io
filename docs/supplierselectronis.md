@@ -15,5 +15,7 @@ classes: wide
 
 1. [Sensors Rocks](https://circuit.rocks/chemical-sensors)
 
+1. [Lascar Electronic](https://www.lascarelectronics.com/)
+
 
 
