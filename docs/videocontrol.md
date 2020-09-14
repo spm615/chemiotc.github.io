@@ -25,3 +25,7 @@ classes: wide
 1. [ADS1115 Analog-to-Digital Converter Tutorial](https://www.youtube.com/watch?v=tnfBslyfLRQ)
 
 1. [Arduino Data Logger with Direct Input to Excel](https://www.youtube.com/watch?v=AgJegJ30Pj4)
+
+1. [Arduino Servo Motor Controlled Valve](https://www.youtube.com/watch?v=fQ15MucMiWM)
+
+1. [PID Temperature Controller](https://www.youtube.com/watch?v=CP9f_6EFPQY)
