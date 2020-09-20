@@ -12,7 +12,7 @@ sidebar:
     text: "Photo credit: **M. Sponchioni**"
   - title: "Similar Initiative"
     text: "[DIYBiosphere](https://sphere.diybio.org/)  
-[Chobotix](https://www.chobotix.cz/)"
+[Chobotix](https://www.chobotix.cz/)  [PhysicalLab](https://physicsopenlab.org/)"
 date: 2020-03-07
 ---
 
