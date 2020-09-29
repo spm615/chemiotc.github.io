@@ -20,6 +20,12 @@ Nowadays the control education usually heavily relies on the available simulatio
 [source](https://pdfs.semanticscholar.org/8089/3cf2c7baa5a5d4c6116878920dd6c0480141.pdf)
 
 
+See also:
 
+Hanafy M. Omar (2017): Enhancing automatic control learning through Arduino-based projects, European Journal of Engineering Education, DOI:10.1080/03043797.2017.1390548
 
+From the pubblication Abstract:
 
+Systems dynamics and automatic control is classified as one of the toughest courses in the college of engineering at Qassim University according to the statistical analysis of the final grades. This motivated us to think about a new approach to teach this course by extending the design term project to include experimental part beside the theoretical analysis. This approach has become feasible due to the publicity of the low-cost microcontrollers such as the Arduino in the recent years. In this paper, we present our experience in conducting Arduino-based projects and how we used them to support the teaching of all the automatic control subjects in the course such as the mathematical modelling, the stability analysis, the controller design and the implementation of the PID controller. It was found that the new approach improves the attention and the overall performance of the students in the course which was reflected in the students’ marks in the quizzes and exams. Moreover, it motivated the students to be creative by utilising the control theory to design new systems that can be useful for their local community.
+
+[source](https://www.tandfonline.com/doi/full/10.1080/03043797.2017.1390548)

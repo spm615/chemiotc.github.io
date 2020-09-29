@@ -16,3 +16,5 @@ The paper deals with an experimental verification of a filter impact in PID cont
 See detailed instructions and materials to develop the PID controller for the motor in the enclosed reference.
 
 ![PID motor](https://hackster.imgix.net/uploads/attachments/1163342/_lzeFmwJ3zt.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+
+another key reference is: [Filtered PI and PID control of an Arduino based thermal plant](https://www.sciencedirect.com/science/article/pii/S2405896316326970)

@@ -20,6 +20,13 @@ Nowadays, a great variety of industrial processes has an extreme necessity of im
 [source](https://ieeexplore.ieee.org/document/7790674://docs/articles/)
 
 
+Another interesting reference measuring Level is [comparing different sensors and technologies](https://ettron.com/water-level-indicator-project-controller-using-ultrasonic-sensor-arduino/). 
+They high light the advantages of a contactless sensor vs the tradtional ones.
+
+![Ultrasonic Sensors](https://ettron.com/wp-content/uploads/2019/09/Simple-arduino-connection-with-Hc-SR04-Ultrasonic-distance-sensor.png)
+
+
+
 
 
 

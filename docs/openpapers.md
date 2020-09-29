@@ -66,3 +66,18 @@ Reactions and Electroanalytical Techniques](https://www.juami.org/wp-content/upl
 1. [Filtered PI and PID control of an Arduino based thermal plant](https://www.sciencedirect.com/science/article/pii/S2405896316326970)
 
 1. [A low‐cost, free‐software platform with hard real‐time performance for control engineering education](https://onlinelibrary.wiley.com/doi/10.1002/cae.22084)
+
+1. [Sensor programming and concept implementation of a temperature monitoring system, using Arduino as prototyping platform](https://www.researchgate.net/publication/312411701_Sensor_programming_and_concept_implementation_of_a_temperature_monitoring_system_using_Arduino_as_prototyping_platform)
+
+1. [System of Wireless Temperature and Humidity Monitoring Based on Arduino Uno platform](https://ieeexplore.ieee.org/document/7774887)
+
+1. [System of Wireless Temperature and Humidity Monitoring Based on Arduino Uno Platform](https://ieeexplore.ieee.org/document/7774887)
+
+1. [Chemistry and Robots](http://www.clab.edc.uoc.gr/2nd/pdf/37.pdf)
+
+1. [Development of a robotic system for automatic organic chemistry synthesis] (https://arxiv.org/abs/1906.07939)
+
+1. [Chembot: chemistry with robots] (https://www.google.com/search?rlz=1C2CHBF_itIT880IT880&sxsrf=ALeKk01ppZp7NbpF8-gUDVGOmaW5dOqqTQ%3A1600861239851&source=hp&ei=NzRrX-DrMYGjgQaPh7qwAg&q=Chembot%3A+chemistry+with+robots&oq=Chembot%3A+chemistry+with+robots&gs_lcp=CgZwc3ktYWIQA1D9EVj9EWDzGmgAcAB4AIABfYgBfZIBAzAuMZgBAKABAqABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwig46LsmP_rAhWBUcAKHY-DDiYQ4dUDCAk&uact=5)
+
+1. [XBee Wireless Sensor Networks for Temperature Monitoring] (https://www.semanticscholar.org/paper/XBee-Wireless-Sensor-Networks-for-Temperature-Boonsawat-Ekchamanonta/1b9b6bca965b28084afbed617af62d71b0f96732)
+
