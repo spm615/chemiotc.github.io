@@ -14,4 +14,6 @@ classes: wide
 
 1. [Amphenol Sensors](https://www.amphenol-sensors.com/en/)
 
+1. [Oled displays with Arduino](https://www.youtube.com/watch?v=eNvljLfSiQk) (italian)
+
 
