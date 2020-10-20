@@ -14,7 +14,7 @@ tags:
 
 Detailed hardware description for the DIY construction. Included software to drive the valve.
 
-Similar site with different [Solenoid Valve} (https://circuitdigest.com/microcontroller-projects/how-to-control-solenoid-valve-using-arduino) explain also how it works. Good reading.
+Similar site with different [Solenoid Valve] (https://circuitdigest.com/microcontroller-projects/how-to-control-solenoid-valve-using-arduino) explain also how it works. Good reading.
 
 ![Solenoid Valve 2](https://circuitdigest.com/sites/default/files/inlineimages/u1/Solenoid-Valve.png)
 

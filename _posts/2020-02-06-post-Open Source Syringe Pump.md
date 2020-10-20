@@ -15,6 +15,10 @@ tags:
 
 The articles show the hardware requirement, the software code and the detailed procedure for construction.
 
+An alternative controller based on Arduino is given [here](http://www.thepulsar.be/article/arduino-controller-for-our-low-cost-syringe-pump/)
+
+Ultra low flow rate and stable flows is guarantee with [this solution](http://www.thepulsar.be/article/ultra-low-flow-rates-with-diy-syringes-pumps) .
+
 Read also **Osmar, the open-source microsyringe autosampler** in Open Papers menu on the left.
 
 See also in Articles Page : K. Akash ; M. Pramoth Kumar ; N. Venkatesan ; M. Venkatesan, A single acting syringe pump based on Raspberry Pi - SOC,  2015 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)
