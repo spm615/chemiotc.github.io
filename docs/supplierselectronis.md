@@ -17,5 +17,9 @@ classes: wide
 
 1. [Lascar Electronic](https://www.lascarelectronics.com/)
 
+1. [Industrial Shields] (https://www.industrialshields.com/)
 
+1. [IoT Sonoff] (https://sonoff.tech/)
+
+1. [Sparkfun] (https://learn.sparkfun.com/tutorials/arduino-shields-v2)
 
