@@ -19,7 +19,7 @@ sidebar:
 date: 2020-03-07
 ---
 
-Like Chemistry also Robotic is a very large discipline, in spite of its more short history. Its growth is soo fast that everyboby is informed by its last developments. Low cost electronic and automation bring to us: 3D printer, drones and home automation devices. The [Open Hardware Mouvement](https://en.wikipedia.org/wiki/Open-source_hardware) impressively increased the number of people involved in its applications. In our opionion, some trends of Robotics can be fruitfully benefical in chemical production, such as:
+Like Chemistry also Robotic is a very large discipline, in spite of its more short history. Its growth is soo fast that everyboby is informed by its last developments. Low cost electronic and automation bring to us: 3D printers, drones and home automation devices. The [Open Hardware Mouvement](https://en.wikipedia.org/wiki/Open-source_hardware) impressively increased the number of people involved in its applications. In our opinion, some trends of Robotics can be fruitfully benefical for chemical productions, such as:
 
  1. development of new [Sensors](https://en.wikipedia.org/wiki/Sensor) with [their Electronic]( https://www.adafruit.com/category/35)
  
@@ -28,5 +28,5 @@ Like Chemistry also Robotic is a very large discipline, in spite of its more sho
  1. diffuse example of [Automation](https://en.wikipedia.org/wiki/Automation)
  
  
- The posibility to think and realize new form of robots and automatic devices, become very popular with the [Make](https://makezine.com/) magazine. There an increasing section regards possible interaction with chemistry and chemical production. A diffuse consideration of combine chemistry with electronic, mechanics and informatic is a very promising development for the future.
+ The posibility to think and realize new form of robots and automatic devices, become very popular with the [Make](https://makezine.com/) magazine. There an increasing section regards possible interaction with chemistry and biology. A diffuse consideration of combining chemistry with electronic, mechanics and informatic is a very promising development for the future.
  

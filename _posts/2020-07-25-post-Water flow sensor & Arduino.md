@@ -4,7 +4,7 @@ classes: wide
 categories:
   - Industry
 tags:
-  - Environmental
+  - Environment
   - Control
 ---
 From the [well-done website](https://www.electroschematics.com/working-with-water-flow-sensors-arduino/) , get this interesting application.
