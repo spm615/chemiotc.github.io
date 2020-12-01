@@ -12,5 +12,4 @@ Liquids or other objects appear colored because they reflect or transmit certain
 
 Hardware and code for a full working [Led photometer](https://www.instructables.com/id/DIY-LED-photometer-With-Arduino-for-Physics-or-Che/).
 
-![LED-photomer](https://cdn.instructables.com/FHU/I575/JVE7OCAV/FHUI575JVE7OCAV.LARGE.jpg?auto=webp&frame=1&width=702&fit=bounds)
-
+{% include video id="SoVuUctSyBE" provider="youtube" %}

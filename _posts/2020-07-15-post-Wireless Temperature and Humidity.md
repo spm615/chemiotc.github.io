@@ -17,6 +17,6 @@ Moreover, several other papers are available, where more scientific details are 
 
 
 For a more sophisticated strategy in the developping a wireless network, see:
-[XBee Wireless Sensor Networks for Temperature Monitoring] (https://www.semanticscholar.org/paper/XBee-Wireless-Sensor-Networks-for-Temperature-Boonsawat-Ekchamanonta/1b9b6bca965b28084afbed617af62d71b0f96732)
 
+![XBee Wireless Sensor Networks](https://d3i71xaburhd42.cloudfront.net/1b9b6bca965b28084afbed617af62d71b0f96732/1-Figure1-1.png)
 

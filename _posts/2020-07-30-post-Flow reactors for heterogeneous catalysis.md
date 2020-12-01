@@ -7,7 +7,7 @@ tags:
   - Fine Chemicals
   - Flow Chemistry
 ---
-A fully detailed project (made witha chemiotic spirit) is realized with the intent of provide a low cost [flow reactor for heterogeneous catalisis](https://www.researchgate.net/publication/334813149_Homemade_3-D_printed_flow_reactors_for_heterogeneous_catalysis/figures?lo=1). Enjoy the paper abstract, where authors explain their project:
+A fully detailed project (made with a chemiotic spirit) is realized with the intent of provide a low cost [flow reactor for heterogeneous catalisis](https://www.researchgate.net/publication/334813149_Homemade_3-D_printed_flow_reactors_for_heterogeneous_catalysis/figures?lo=1). Enjoy the paper abstract, where authors explain their project:
 "The introduction of 3-D printing technologies and continuous flow microreaction system
 are rapidly gaining attention in the domain of heterogeneous catalysis. It has facilitated a
 cleaner method for device fabrication and up scalable approach to chemical synthesis. This

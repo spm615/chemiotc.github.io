@@ -15,4 +15,4 @@ A supervisory control system is a sophisticated structure quite often required i
 
 [A Web-based Arduino Supervisory Control System](https://www.researchgate.net/publication/258744202_A_Web-Based_Arduino_Supervisory_Control_System)
 
-!{scada}(https://mrstrends.files.wordpress.com/2019/12/supervisory-control-and-data-acquisition-system-1.jpg)
+![scada](https://mrstrends.files.wordpress.com/2019/12/supervisory-control-and-data-acquisition-system-1.jpg)

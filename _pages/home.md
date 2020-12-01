@@ -11,8 +11,17 @@ sidebar:
     image_alt: "image"
     text: "Photo credit: **M. Sponchioni**"
   - title: "Similar Initiative"
-    text: "[DIYBiosphere](https://sphere.diybio.org/)  
-[Chobotix](https://www.chobotix.cz/)  [PhysicalLab](https://physicsopenlab.org/)  [The Pulsar](http://www.thepulsar.be/)  [Open Source Ecology](https://www.opensourceecology.org/)"
+    text: "[DIYBiosphere](https://sphere.diybio.org/)"
+  - title: " "
+    text: "[Chobotix](https://www.chobotix.cz/)"
+  - title: " "
+    text: "[PhysicalLab](https://physicsopenlab.org/)"
+  - title: " "
+    text: "[The Pulsar](http://www.thepulsar.be/)"
+  - title: " "
+    text: "[Open Source Ecology](https://www.opensourceecology.org/)"
+  - title: " "
+    text: "[DP Technology](https://dptechnology.jimdofree.com/)"
 date: 2020-03-07
 ---
 
