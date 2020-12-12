@@ -12,7 +12,7 @@ sidebar:
     image_alt: "image"
     text: "Photo credit: [**Grey Wallpapers**](https://unsplash.com)"
   - title: " "
-    image: /assets/images/IMG_20200218_115113.jpg
+    image: /assets/images/LaboratoryHood.jpg
     image_alt: "image"
     text: "Photo credit: [**Jury Sabatin**](https://unsplash.com)"
 date: 2020-03-07
