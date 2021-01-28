@@ -8,3 +8,4 @@ title: "Projects"
 * [Stepper Valve](/projects/StepperValve/)
 * [Automatic Spectrophotometer](/projects/AutomaticSpectrophotometer/)
 * [Controlled Syringe Pump](/projects/SyringePump/)
+* [Stirrer with Control on Power and Rate](/projects/Stirrer/)
