@@ -5,7 +5,7 @@ categories:
   - Industry
 tags:
   - Control
-  - Analysis
+  - Electronic
   - Sensors
 ---
 When you collect data in a chemistry experiemnt the worst think may happens is a break-down. A [Watchdog](https://www.hackster.io/news/piwatcher-tb-is-a-raspberry-pi-watchdog-103c32a53062) is the solution because it restart the system automatically. See how it works in case you use Raspberry Pi.

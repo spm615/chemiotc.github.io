@@ -23,3 +23,5 @@ classes: wide
 
 1. [Sparkfun](https://learn.sparkfun.com/tutorials/arduino-shields-v2)
 
+1. [Pimoroni](https://shop.pimoroni.com/products/raspberry-pi-pico?variant=32402092294227)
+

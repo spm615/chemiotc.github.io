@@ -16,4 +16,7 @@ classes: wide
 
 1. [Oled displays with Arduino](https://www.youtube.com/watch?v=eNvljLfSiQk) (italian)
 
+1. [Add sensors to Raspberry PI](https://www.youtube.com/watch?v=gnE4v-PcYKQ)
+
+1. [Raspberry PI Pico](https://www.youtube.com/watch?v=cVHCllbN3bQ)
 
