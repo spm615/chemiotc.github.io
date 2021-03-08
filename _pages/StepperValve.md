@@ -6,7 +6,7 @@ toc_label: "Contents"
 toc_icon: "cog"
 ---
 
-![Stepper Valve](/assets/images/StepperValve.jpg){:height="400px" width="700px"}
+{% include video id="175OqLHa3K-2Lxz_367XdmghkyVt5mvoy" provider="google-drive" %}
 
 ## Purpose
 

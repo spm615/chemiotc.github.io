@@ -4,7 +4,7 @@ classes: wide
 categories:
   - Industry
 tags:
-  - eLECTRONIC
+  - Electronic
 ---
 Sometime saving power is the major concern for your project. A [bone board](https://www.ne555.it/arduino-ridotto-allosso/) is teh solution. See how to take out from Arduino whatever is not strictly necessary and save power.
 
