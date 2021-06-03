@@ -3,23 +3,23 @@ minimal_mistakes_skin: aqua #"default" "air", "aqua", "contrast", "dark", "dirt"
 
 title: " "
 subtitle : 
-logo : "/assets/images/Logo Chemiotic.png"
-email: gianmarco.polotti@gmail.com
+logo : 
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-repository: "chemiotic/chemiotic.github.io"
+repository: "chemiotc/chemiotic.github.io"
 words_per_minutes: 200
 comments:
   provider  : "staticman_v2"
   staticman:
     branch    : "master"
-    staticman_url: https://chemiotic-blog.herokuapp.com/v2/entry/chemiotic/chemiotic.github.io/master/comments
+    staticman_url: https://chemiotic-blog.herokuapp.com/v2/entry/chemiotic/chemiotc.github.io/master/comments
 reCaptcha:
    siteKey: 6LfUZq0ZAAAAAO-mdQbEVIk-bUfVpIagT_6CQUbE
    secret: p/fYhnT5x2DfTtjsN7rU3WKu2R5JMbp2/bRxaZsLOEpX4dLOTokT5WymIRj9xVMGZqKRdGThw6O9vQ7sqN8mfEtWceD7T/i/TkMvz+edOmu47DhEVxPyloVAQM8au9Ac9p2nlM6xPTkShBBs4LShk3J7qg3fg65LRzB7ApXF5QvhWf061yR5We8teLLgVe9CXlYE/QalTMtz/gjL6xvnU21FRK/N/1WwoWGzf7dkZXYxaXGQ9D+MjzRxSGPjyeYZ5hyJFxr7aZhEZY78ovMGCRNFIZUQtAP3u8W927d1Qd/JsjAD/rwUsSuQfZJPfb0PbtnN0PzRc65MjVD9ZofkAEZtQxr3BgLGWtdJ8iQl/p48SOvHOibiNCBA6Wjd8+Siu2u5k4pxDReYb7MGx7f9wdeEhulPlbzIIByOKIhdk3pqQmHtlOZMnoAWz4NcUF2DqxXl85Cp+F1pc6kMnag5vKW32/2cQwZtcGiE98cCznjeHjoJB1+J5nm/aadH9qq8+aerrNjYW0nyHiz/ZUw2Brw/AiTK1WFafBzhtNGBf6zjNG9HSCRgpzI+dX5KyTYJw5A8j2X/8cwzLy16Et+5CKRmD+rZR+Pv6Y7CqKXby7LSgxRwZF3azZTCExys5+BE6vSrwoQgdbiyyATxQS+xLfF/OI/aLvUXNR1Ug81sQQU=
 
 # Social Sharing
 twitter_username: username
-github_username: chemiotic
+github_username: chemiotc
 search: true
 
 # Build settings
@@ -72,7 +72,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chemiotic/chemiotic.github.io"
+      url: "https://github.com/chemiotic/chemiotc.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -84,7 +84,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chemiotic/chemiotic.github.io"
+      url: "https://github.com/chemiotic/chemiotc.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
