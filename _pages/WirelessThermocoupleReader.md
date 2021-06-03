@@ -20,7 +20,7 @@ When you run a chemical experiment, the Temperature is one of the key parameter.
 
 * **run under a low continuous voltage.** Due to the driving maket of Iot many commercial wireless reader are powered with alternate high tension that is quite common at home. This is not the case, in chemical experiemnts where liquids and direct contact of operator is the standard.
 
-The new interesting possibilities given by the new low cost developping wirelss boards, suggest that the optimal wireless thermocouple reader is much simply built than bought. The following sections implement our actual solution. Hoever with the wireless connectivity, we prospect a quite high and continous activity...
+The new interesting possibilities given by the new low cost developping wirelss boards, suggest that the optimal wireless thermocouple reader is much simply built than bought. The following sections implement our actual solution. However with the wireless connectivity, we prospect a quite high and continous activity...
 
 ## Circuit
 ![Wireless Thermocouple Circuit](/assets/images/WirelessThermocouple_circuit.jpg){:height="400px" width="700px"}
